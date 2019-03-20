@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  #code your solution here:
+  epic_tradgedy[:montague][:hero][:status] = "dead"
 
   
 
